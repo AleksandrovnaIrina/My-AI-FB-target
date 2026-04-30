@@ -1,1 +1,1 @@
-{"cmd": "echo PING_$(date +%s)", "status": "pending", "id": 100, "result": ""}
+{"cmd": "echo PING_$(date +%s)", "status": "done", "result": "PING_1777568494", "id": 100}
