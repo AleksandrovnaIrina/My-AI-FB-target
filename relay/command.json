@@ -1,1 +1,1 @@
-{"cmd": "echo RELAY_OK && whoami && uptime", "status": "pending", "id": 1, "result": ""}
+{"cmd": "echo RELAY_OK && whoami && uptime", "status": "done", "result": "RELAY_OK\nroot\n 16:55:42 up 1 day, 32 min,  1 user,  load average: 0.04, 0.03, 0.00", "id": 1}
