@@ -1,1 +1,1 @@
-{"cmd": "cat /root/agent/relay.py | grep GH_TOKEN | head -1", "status": "pending", "id": 101, "result": ""}
+{"cmd": "head -5 /root/agent/relay.py", "status": "pending", "id": 102, "result": ""}
