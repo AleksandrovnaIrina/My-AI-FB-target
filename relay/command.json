@@ -1,1 +1,1 @@
-{"cmd": "echo alive && ls /root/agent/", "status": "pending", "id": 200, "result": ""}
+{"cmd": "echo alive && ls /root/agent/", "status": "done", "result": "alive\nagent.py\ngithub_relay.py\nrelay.py\nvenv", "id": 200}
