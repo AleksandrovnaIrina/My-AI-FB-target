@@ -1,1 +1,1 @@
-{"cmd": "", "status": "idle", "result": "", "id": 0}
+{"cmd": "echo RELAY_OK && whoami && uptime", "status": "pending", "id": 1, "result": ""}
