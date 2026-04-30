@@ -1,1 +1,1 @@
-{"cmd": "head -5 /root/agent/relay.py", "status": "pending", "id": 102, "result": ""}
+{"cmd": "echo alive && ls /root/agent/", "status": "pending", "id": 200, "result": ""}
